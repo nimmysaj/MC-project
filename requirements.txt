@@ -26,5 +26,6 @@ twilio==9.3.1
 tzdata==2024.1
 urllib3==2.2.2
 yarl==1.12.1
-razorpay-1.4.2
+razorpay==1.4.2
+setuptools==75.2.0
 #cffi-1.17.1 cryptography-43.0.1 pycparser-2.22
